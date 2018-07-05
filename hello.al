@@ -2,7 +2,7 @@ codeunit 50198 MyBora4
 {
     trigger OnRun();
     begin
-    myint := 5
+    myint := 8
     end;
     
     var
