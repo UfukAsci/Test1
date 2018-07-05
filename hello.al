@@ -8,4 +8,5 @@ codeunit 50198 MyBora4
     var
         myInt : Integer;
         mybool : Boolean;
+        myInt7 : Integer;
 }
